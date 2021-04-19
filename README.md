@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Bernard - aka [Flyhightechno] CEO of [flyhightech.net/] 👋
 
-[![Website](https://img.shields.io/website?label=flyhightech.net&style=for-the-badge&url=https%3A%2F%2Fflyhightech.net)](https://flyhightech.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/flyhightechno?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/flyhightechno)
 
 ## I'm a Father, Veteran & Developer
