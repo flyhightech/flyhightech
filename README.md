@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... Learning more react.js and vanilla javascript
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -17,10 +16,11 @@ Here are some ideas to get you started:
 
 ## I'm a Father, Veteran & Developer
 
-- 🔭 I’m currently working on ... Basic Tech Stacks
+- 🔭 I’m currently working on the MERNs stack
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to help others and play guitar 
+- ⚡ Fun fact: I love to help others and play video games online
+- 📫 How to reach me:
 
 <br />
 <br />
