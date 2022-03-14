@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ## I'm a Father, Veteran & Developer
 
 - 🔭 I’m currently working on the MERNs stack
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to help others and play video games online
 - 📫 How to reach me: Via email or through my website @ <a href="https://flyhightech.net/"> Flyhightech.net/ </a>
